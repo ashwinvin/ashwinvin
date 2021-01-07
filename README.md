@@ -32,5 +32,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwinvin&show_icons=true&locale=en" alt="ashwinvin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinvin&" alt="ashwinvin" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinvin&theme=tokyonight" alt="ashwinvin" /></p>
 
