@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwinvin" alt="ashwinvin" /></a> </p>
 
-- 🌱 I’m currently learning **Python, discord py, django**
+- 🌱 I’m currently learning **Python, django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashwinvin](https://github.com/ashwinvin)
 
