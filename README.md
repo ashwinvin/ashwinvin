@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **ashwinvinodsa@gmail.com, Snip Nip#8181**
+- 📫 How to reach me **ashwinvinodsa@gmail.com, Ashu~#1337**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
