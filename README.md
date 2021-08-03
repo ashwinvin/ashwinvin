@@ -60,4 +60,4 @@
 </details>
 <h3 align="left">Statistics</h1>
 
-![Statistics](https://github.com/ashwinvin/ashwinvin/blob/master/github-metrics.svg)
+![Statistics](https://github.com/ashwinvin/ashwinvin/blob/main/github-metrics.svg)
