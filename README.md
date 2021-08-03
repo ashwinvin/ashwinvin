@@ -58,4 +58,6 @@
   </p>
   
 </details>
-<img src="https://github.com/ashwinvin/ashwinvin/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+## Statistics
+
+![Statistics](https://github.com/SovietKitsune/SovietKitsune/blob/master/github-metrics.svg)
