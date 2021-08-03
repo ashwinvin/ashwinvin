@@ -4,11 +4,6 @@
 ### Blogs posts
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
 
-<!-- BLOG-POST-LIST: START -->
-* [Object detection under 20 lines](https://dev.to/ashwin_vinod/object-detection-under-50-lines-9ln)
-<!-- BLOG-POST-LIST: END -->
-
-
 <details open>
   
   <summary>
