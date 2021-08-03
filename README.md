@@ -1,9 +1,6 @@
 <h1 align="center">Hi There! I'm Ashwin Vinod 👋</h1>
 <h4 align="center">Yet another passionate teen developer from India</h3>
 
-### Blogs posts
-<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
-
 <details open>
   
   <summary>
@@ -52,8 +49,11 @@
     <a href="https://discord.gg/ZejzUXcB2e" target="_blank">
       <img src="https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
-    <a href="https://twitter.com/Snip_Nip" target="_blank" href="https://twitter.com/TrustedMercury">
-  <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <a href="https://twitter.com/Snip_Nip" target="_blank">
+      <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+    <a href="https://dev.to/ashwin_vinod" target="_blank">
+      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
     </a>
   </p>
   
