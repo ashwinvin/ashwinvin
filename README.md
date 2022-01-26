@@ -40,7 +40,7 @@
   
   <summary>
     🗺️ Find Me on
-  </summmary>
+  </summary>
   
   <p>
     <a href="mailto:ashwinvinodsa@gmail.com" target="_blank">
@@ -58,6 +58,6 @@
   </p>
   
 </details>
-<h3 align="left">Statistics</h1>
+<h3 align="left">Statistics</31>
 
 ![Statistics](https://github.com/ashwinvin/ashwinvin/blob/main/github-metrics.svg)

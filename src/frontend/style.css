@@ -1,5 +1,5 @@
 body {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
   min-height: 100vh;
   color: #ffffff;
 }
@@ -17,10 +17,10 @@ a {
   min-width: 100%;
   z-index: -1;
   background-size: autop 100%;
-  background-color: #261C2C;
+  background-color: #261c2c;
   opacity: 0.8;
   background-image: radial-gradient(#f5f5f5 0.9px, transparent 0.9px),
-    radial-gradient(#f5f5f5 0.9px, #261C2C 0.9px);
+    radial-gradient(#f5f5f5 0.9px, #261c2c 0.9px);
   background-size: 36px 36px;
   background-position: 0 0, 18px 18px;
 }
@@ -34,6 +34,17 @@ a {
   background-color: #261c2cb0;
 
   /* Shadow */
+  --tw-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
+    0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000),
+    var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
+
+.github {
+  justify-content: left;
+  padding: 1rem 4rem;
+  background-color: #222831;
+  
   --tw-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
     0 10px 10px -5px rgba(0, 0, 0, 0.04);
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000),
@@ -71,7 +82,7 @@ p.intro {
   font-size: 1rem;
 }
 
-.description{
+.description {
   font-size: 1.1rem;
 }
 /* Header for each section */

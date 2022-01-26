@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "app"
+version = "0.1.0"
+description = "Backend API for my portfolio"
+authors = ["Ashwin Vinod <ashwinvinodsa@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+Jinja2 = "^3.0.3"
+uvicorn = "^0.17.0"
+starlite = {git = "https://github.com/starlite-api/starlite", branch = "add-templating"}
+httpx = "^0.22.0"
+
+[tool.poetry.dev-dependencies]
+black = "^21.12b0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
