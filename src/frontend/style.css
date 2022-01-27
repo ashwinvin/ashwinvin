@@ -84,6 +84,7 @@ p.intro {
 
 .description {
   font-size: 1.1rem;
+  line-height: 1.5rem;
 }
 /* Header for each section */
 .links_header {
