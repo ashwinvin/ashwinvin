@@ -30,7 +30,7 @@ def get_config() -> List[str]:
 
 app = Starlite(
     route_handlers=[index, projects],
-    static_files_config=[StaticFilesConfig(directories=["../frontend"], path="/static")],
-    template_config=TemplateConfig(directory="../frontend", engine=JinjaTemplateEngine),
+    static_files_config=[StaticFilesConfig(directories=["src/frontend"], path="/static")],
+    template_config=TemplateConfig(directory="src/frontend", engine=JinjaTemplateEngine),
     dependencies={"repos": Provide(get_config)},
 )
