@@ -9,7 +9,7 @@ impl SideBar {
     pub fn show(
         &self,
         ctx: &egui::CtxRef,
-        windows: &Vec<String>,
+        windows: &[String],
         visible_windows: &mut BTreeSet<String>,
     ) {
         egui::SidePanel::left("left_panel").show(ctx, |ui| {
