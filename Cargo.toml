@@ -18,3 +18,4 @@ serde = { version = "1", features = ["derive"]}
 
 [profile.release]
 opt-level = 2 # fast and small wasm
+lto = true

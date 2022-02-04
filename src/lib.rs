@@ -8,7 +8,7 @@ use std::collections::BTreeSet;
 use eframe::wasm_bindgen::{self, prelude::*};
 use eframe::{egui, epi};
 
-// mod projects;
+mod projects;
 mod sidebar;
 mod user_info;
 
@@ -23,7 +23,7 @@ impl Default for MainPage {
     fn default() -> Self {
         let windows: Vec<Box<dyn crate::Window>> = vec![
             Box::new(user_info::UserInfo::default()),
-            // Box::new(projects::Projects::default()),
+            Box::new(projects::ProjectWindow::default()),
         ];
         let mut visible_windows = BTreeSet::new();
         let mut window_names = Vec::new();
