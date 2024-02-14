@@ -1,5 +1,5 @@
 <h1 align="center">Hi There! I'm Ashwin Vinod 👋</h1>
-<h4 align="center">Yet another passionate teen developer from India</h3>
+<h5 align="center">"You can never really know it all"</h3>
 
 <details open>
   
@@ -14,8 +14,6 @@
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
-    <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
-    <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <p>
@@ -59,6 +57,6 @@
   </p>
   
 </details>
-<h3 align="left">Statistics</31>
+<h3 align="center">Statistics</31>
 
 ![Statistics](https://github.com/ashwinvin/ashwinvin/blob/main/github-metrics.svg)
